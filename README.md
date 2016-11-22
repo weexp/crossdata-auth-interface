@@ -1,3 +1,5 @@
+[![Maven Central - scala 2.11](https://maven-badges.herokuapp.com/maven-central/com.stratio.crossdata/crossdata-auth-interface_2.11/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.stratio.crossdata/crossdata-auth-interface_2.11)
+
 Description
 ============
 
