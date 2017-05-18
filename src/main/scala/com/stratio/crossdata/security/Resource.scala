@@ -21,11 +21,12 @@ sealed trait ResourceType{
   def name(): String
 }
 
+case object DatabaseResource extends ResourceType{
+  override def name(): String = "database"
+}
+
 case object TableResource extends ResourceType{
   override def name(): String = "table"
-}
-case object CatalogResource extends ResourceType{
-  override def name(): String = "catalog"
 }
 
 case object DatastoreResource extends ResourceType{
