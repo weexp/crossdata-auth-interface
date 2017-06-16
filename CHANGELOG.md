@@ -2,7 +2,6 @@
 
 ## 0.2.0 (upcoming)
 
-* Pending changelog
 * Removed catalog as resource
 * Added database as resource
 * Removed Describe as action. Now Read is enough to read metadata.
