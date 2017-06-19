@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 (upcoming)
+
+* Fixed continuous delivery deploy in Maven Central
+
 ## 0.2.0 (June 16, 2017)
 
 * Removed catalog as resource
