@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.1 (upcoming)
+## 0.2.1 (June 19, 2017)
 
 * Fixed continuous delivery deploy in Maven Central
 
