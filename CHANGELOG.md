@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.3.0-b599046 (Built: May 14, 2018 | Pre-release)
+## 0.3.0-b599046 (Built: May 14, 2018 | Released: May 14, 2018)
 
 * Added column as resource
 * Added FilterColumn as action
