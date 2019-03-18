@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.0 (upcoming)
+## 0.4.0 (March 18, 2019)
 
 * Added impersonator as resource
 * Added Other as action
