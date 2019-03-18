@@ -21,3 +21,5 @@ case object Drop extends Action
 case object Cache extends Action
 
 case object FilterColumn extends Action
+
+case object Other extends Action

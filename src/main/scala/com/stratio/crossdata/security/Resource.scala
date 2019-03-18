@@ -27,6 +27,10 @@ case object ColumnResource extends ResourceType {
   override def name(): String = "column"
 }
 
+case object ServiceImpersonationResource extends ResourceType {
+  override def name(): String = "impersonator"
+}
+
 object Resource {
   val CrossdataClusterNameEnvVar = "CROSSDATA_CLUSTER_NAME"
   val AllResourceName = "*"

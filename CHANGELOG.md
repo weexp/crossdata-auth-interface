@@ -2,7 +2,8 @@
 
 ## 0.4.0 (upcoming)
 
-* Pending changelog
+* Added impersonator as resource
+* Added Other as action
 
 ## 0.3.0-b599046 (Built: May 14, 2018 | Released: May 14, 2018)
 
