@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.4.0 (upcoming)
+## 0.5.0 (upcoming)
+
+* Pending changelog
+
+## 0.4.0-441a52f (Built: March 18, 2019 | Pre-release)
 
 * Added impersonator as resource
 * Added Other as action
