@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.5.0 (upcoming)
+## 0.6.0 (upcoming)
+
+* Pending changelog
+
+## 0.5.0-4a78288 (Built: May 22, 2019 | Pre-release)
 
 * Added Bind as action
 
