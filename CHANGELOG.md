@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5.0 (upcoming)
+## 0.5.0 (May 22, 2019)
 
 * Added Bind as action
 
