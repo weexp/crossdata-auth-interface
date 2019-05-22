@@ -2,7 +2,7 @@
 
 ## 0.5.0 (upcoming)
 
-* Pending changelog
+* Added Bind as action
 
 ## 0.4.0-441a52f (Built: March 18, 2019 | Released: May 22, 2019)
 
