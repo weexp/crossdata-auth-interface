@@ -2,7 +2,7 @@
 
 ## 0.6.0 (upcoming)
 
-* Pending changelog
+* Added function as resource
 
 ## 0.5.0-4a78288 (Built: May 22, 2019 | Released: May 22, 2019)
 
