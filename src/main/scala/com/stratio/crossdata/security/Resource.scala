@@ -19,8 +19,8 @@ case object TableResource extends ResourceType {
   override def name(): String = "table"
 }
 
-case object FunctionResource extends ResourceType {
-  override def name(): String = "function"
+case object UdfResource extends ResourceType {
+  override def name(): String = "udf"
 }
 
 case object DatastoreResource extends ResourceType {
