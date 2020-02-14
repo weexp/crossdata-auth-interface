@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.6.0 (upcoming)
+## 0.7.0 (upcoming)
+
+* Pending changelog
+
+## 0.6.0-92d5522 (Built: February 14, 2020 | Pre-release)
 
 * Added udf as resource
 
