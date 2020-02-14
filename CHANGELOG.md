@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.6.0 (upcoming)
+## 0.6.0 (February 14, 2020)
 
 * Added udf as resource
 
