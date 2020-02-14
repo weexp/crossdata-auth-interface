@@ -2,7 +2,7 @@
 
 hose {
     EMAIL = 'crossdata'
-    MODULE = 'crossdata-auth'
+    MODULE = 'crossdata-auth-interface'
     DEVTIMEOUT = 20
     RELEASETIMEOUT = 20
     FOSS = true
